@@ -3,16 +3,19 @@ This is a basic node js project template, which any one can you as starter templ
 ###  SETUP
 -Download this template from github and open it in your favourite text editor.
 -Go inside the project folder and run the following command
-```npn init
+```
+npn init
 ```
 -In the root directory create a `.env` file and add the following env:
-```PORT=<port number of your choice>
-  ex:
-  PORT=3000
+```
+PORT=<port number of your choice>
+ex:
+PORT=3000
 ``` 
 
 -Go inside src folder and execcute the following command:
-```npx sequelize init
+```
+npx sequelize init
 ```
 it will create a config.json file in config folder, migration folder and seeder folder
 
@@ -47,5 +50,6 @@ it will create a config.json file in config folder, migration folder and seeder 
 -If you are setting up test or prod environment make sure you replace the host with the hosted db url.
 
 -To run the server execute
-```npm run dev
+```
+npm run dev
 ```
