@@ -1,4 +1,4 @@
-This is a basic node js project template, which any one can you as starter template.
+This is a basic node js for airline reservation project template.
 
 ###  SETUP
 -Download this template from github and open it in your favourite text editor.
